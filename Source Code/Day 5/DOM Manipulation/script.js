@@ -1,0 +1,1 @@
+let output = console.log()

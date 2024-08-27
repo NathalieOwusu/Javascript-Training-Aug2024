@@ -23,5 +23,5 @@ console.log(Boolean(Math.sqrt(-1)));
 
 // Conversion of Boolean into Number
 
-console.log(Number(true))
-console.log(Number(false))
+console.log(Number(true));
+console.log(Number(false));
