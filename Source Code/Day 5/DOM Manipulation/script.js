@@ -1,1 +1,1 @@
-let output = console.log()
+let output = console.log(window.document.innerHTML);
